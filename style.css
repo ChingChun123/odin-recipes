@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(87, 142, 160);
+    font-family: "Lucida Console", Monaco, sans-serif;
+    font-weight: bold;
+    color: rgb(209, 225, 239)
+}
+
+ul{
+    font-size: 35px;
+    
+}
+li:hover{
+    font-size:40px;
+}
